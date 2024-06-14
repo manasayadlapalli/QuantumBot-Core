@@ -57,6 +57,9 @@
     - Change Firebase plan to Blaze (pay-as-you-go).
     - Run `firebase deploy --only functions` to deploy the function.
 
+![image](https://github.com/manasayadlapalli/QuantumBot-Core/assets/87613567/d17f85a1-0cb5-4041-8b42-5b8a0f379bdf)
+
+
 - **Testing API Endpoint with Postman**
   - Install Postman
     - Download and install Postman from [Postman](https://www.postman.com/).
